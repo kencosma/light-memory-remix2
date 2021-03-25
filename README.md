@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]https://media.giphy.com/media/xrqZb0JZIAaA6VPRT0/giphy.gif
+!https://media.giphy.com/media/NQYauF4NhDYgecnDf7/giphy.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -47,7 +47,7 @@ https://www.w3schools.com/colors/colors_groups.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-During the hiding the stop button and having it come back when you pressed stop was a bit difficult for me and I am not sure. I was following the directions and then I missed that portion of it and I was confused on how to do that, but I came over it by just re-reading the directions and slowing down. I was so worried that I had missed a whole section or something in the instructions because my button wasnt working properly. Also, getting the actual game to play other clues? I am not sure if I am impatient but it seems like the rest of the buttons won't play. I made sure to follow the instructions thoroughly when I rechecked my work so I am not sure. 
+During the hiding the stop button and having it come back when you pressed stop was a bit difficult for me and I am not sure. I was following the directions and then I missed that portion of it and I was confused on how to do that, but I came over it by just re-reading the directions and slowing down. I was so worried that I had missed a whole section or something in the instructions because my button wasnt working properly.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 I think I would like to learn more about how sounds work when it comes to HTML web pages. I was looking at the Sound Synthsizer portion and reading over the code and it doesnt quite make sense to me but I think it will with more research. 
